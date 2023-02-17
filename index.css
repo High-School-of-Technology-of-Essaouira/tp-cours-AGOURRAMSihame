@@ -1,0 +1,19 @@
+ul li{
+    display: inline;
+    background-color: salmon;
+    font-size: xxx-large;
+    border-collapse: collapse;
+    padding: 3px;
+    text-align: center;
+    border:1px solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float:left;
+}
+  
+li:hover{
+    transition: 0.5px;
+    background:brown;
+    color:black;
+    
+
+} 
