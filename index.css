@@ -1,4 +1,5 @@
 ul li{
+    
     display: inline;
     background-color: salmon;
     font-size: xxx-large;
@@ -7,9 +8,12 @@ ul li{
     text-align: center;
     border:1px solid;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    float:left;
+    
 }
-  
+  ul{
+    position: fixed;
+    
+  }
 li:hover{
     transition: 0.5px;
     background:brown;
